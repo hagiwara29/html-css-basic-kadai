@@ -1,4 +1,4 @@
-html {
+body {
   /* フォントの種類を指定する */
   font-family: "Arial", "Meiryo", sans-serif;
   /* フォントサイズを指定する */
@@ -20,7 +20,7 @@ html {
 h1 {
   /* ラインを引く */
     line-height: 4.5;
-    font-family: Josefin Sans　sans-serif ;
+    font-family: 'Josefin Sans', sans-serif;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px black;
      /* センターに指定する */
