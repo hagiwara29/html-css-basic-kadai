@@ -1,4 +1,4 @@
-body {
+html {
 font-family: "Arial","Meryo",sans-self;
 font-size: 20px;
 text-align: center;
@@ -14,7 +14,7 @@ text-align: center;
 
 h1{
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: 40px;
+  font-optical-sizing: 2rem;
   font-weight: <weight>;
   font-style: normal;
   letter-spacing 1.2em
